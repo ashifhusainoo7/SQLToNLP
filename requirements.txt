@@ -1,0 +1,10 @@
+streamlit
+pandas
+sqlalchemy
+langchain
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-groq
+langgraph
+langchain_community
